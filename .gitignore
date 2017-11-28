@@ -1,4 +1,7 @@
 Ansys/
+*.exe
+*.iso
+*.djvu
 DOSBox-0.74/
 Python/
 SAPR/
